@@ -20,6 +20,7 @@ There is a high correlation interconnected between a lot of the variables. The d
 
 ## The Keras Model
 
-I found it challenging to find suitable variations of the model to improve prediction error. There are so many options using the keras package that although these are fun to use the simple act of adding a few neurons to the layer can change the results dramatically!:grinning: Even after trying different standardising options the results could vary considerably using the same model for each run.<br> There are quite alot of activation options and I found relu was the most consistent. Overall standardizing and whitening the data did make the results more consistent.   
+I found it challenging to find suitable variations of the model to improve prediction error. There are so many options using the keras package that although these are fun to use the simple act of adding a few neurons to the layer can change the results dramatically!:grinning: Even after trying different standardising options the results could vary considerably using the same model for each run.<br> 
+There are quite alot of activation options and I found relu was the most consistent. Overall standardizing and whitening the data did make the results more consistent.   
 
 Author: Greg Feeley.
