@@ -1,5 +1,5 @@
 # machinelearning_assessment
-Assessment for Machine Learning Module using Boston Housing Dataset
+Assessment for Machine Learning Module using Boston Housing Dataset. The goal was to describe, infer and predict using the dataset
 
 ## Installation and Running
 
