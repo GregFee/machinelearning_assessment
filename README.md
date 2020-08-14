@@ -1,5 +1,5 @@
 # machinelearning_assessment
-Assessment for Machine Learning Module using Boston Housing Dataset. The goal was to describe, infer and predict using the dataset
+Assessment for Machine Learning Module using Boston Housing Dataset. The goal was to describe, infer and predict using the dataset.
 
 ## Installation and Running
 
@@ -16,7 +16,7 @@ The dataset can also be found at http://lib.stat.cmu.edu/datasets/boston
 
 ## The Data
 
-There is a high correlation interconnected between a lot of the variables. The data also has a large variance in scale and all this had to be taken into account whne planning a predinction model. Various summary and descriptive data was used to show these traits.
+There is a high correlation interconnected between a lot of the variables. The data also has a large variance in scale and all this had to be taken into account when planning a prediction model. Various summary and descriptive wer used to show these traits.
 
 ## The Keras Model
 
