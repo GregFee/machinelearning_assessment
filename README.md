@@ -1,5 +1,5 @@
 # machinelearning_assessment
-Assessment for Machine Learning Module using Boston Housing Dataset. The goal was to describe, infer and predict using the dataset.
+Assessment for Machine Learning Module using Boston Housing Dataset. The goal was to describe, infer and predict using the dataset. The Boston Housing Dataset is a well known dataset in relation to housing in the Boston Metropolitan area. The dataset consists and of 13 variables and the data will be explored using desciptive statisticas and plots. There is also a linear regression model produced using two of the varibales. The CHAS varibale will also be discussed in relation to house prices.
 
 ## Installation and Running
 
